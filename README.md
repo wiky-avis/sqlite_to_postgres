@@ -6,6 +6,7 @@
 
 Установите виртуальное окружение и активируйте его:
     `python -m venv venv`
+
     
     `source venv/bin/activate`
 
